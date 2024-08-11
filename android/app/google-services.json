@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067557778606",
+    "project_id": "aiinresearch",
+    "storage_bucket": "aiinresearch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067557778606:android:d482bee9b887e97ea4a93f",
+        "android_client_info": {
+          "package_name": "com.example.newresearchai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVaKSTDzfmMDaRQzWDdWkHFYbpq9jQlBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
